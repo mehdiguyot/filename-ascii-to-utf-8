@@ -4,6 +4,7 @@ This short code convert all ascii filename to utf-8 filename
 # Features
 This script can convert folder with sub-folders very quick.
 It shows you the name before/after for each file.
+It can handle any file, like pictures, texts, pdfs, ...
 
 # How it work ?
 By default, python use utf-8. To avoid that, the script convert the filename to ascii and translate it instantly to utf-8.
